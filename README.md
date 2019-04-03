@@ -34,6 +34,6 @@ This guide is mainly targetted towards users who are looking to publicise an eve
 ## Things to look out for
 
 ## Credits
-9Breaker for edits\n
-OpenSUTD for pioneering\n
-SOAR for spearheading
+- 9Breaker for edits
+- OpenSUTD for pioneering
+- SOAR for spearheading
