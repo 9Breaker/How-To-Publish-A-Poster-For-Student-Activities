@@ -32,7 +32,11 @@ This guide is mainly targetted towards users who are looking to publicise an eve
 3. SUTD Community (Audience)
 
 ## Things to look out for
+1. Posters can be put up for a maximum of 30 days. Any extension has to receive ROOT's approval again.
+2. A maximum of 20 posters can be put up, per design.
+3. Poster must be removed by the following day as stated on the ROOT approval stamp.
 
+**FAILURE TO DO SO MAY RESULT IN YOUR STUDENT ORGANISATION BEING BLACKLISTED AND FUTURE POSTER REQUESTS BEING REJECTED**
 ## Credits
 - 9Breaker for edits
 - OpenSUTD for pioneering
