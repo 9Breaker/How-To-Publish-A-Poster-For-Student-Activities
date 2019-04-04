@@ -1,7 +1,7 @@
 # Introduction
 Posters for student-led activities are a common resource to publicise the event. This guide will show you the process to get a poster on display.
 
-This document is created *by a student*. The steps below are part of the proper procedure to get posters/media approved to be put up. This document **may become outdated**. Any improvements/edits are welcome - just raise the issue.
+The steps below are part of the proper procedure to get posters/media approved to be put up. This document **may become outdated**.
 
 # Table of contents
 - ***How to use this guide***
@@ -32,12 +32,15 @@ This guide is mainly targetted towards users who are looking to publicise an eve
 3. SUTD Community (Audience)
 
 ## Things to look out for
-1. Posters can be put up for a maximum of 30 days. Any extension has to receive ROOT's approval again.
-2. A maximum of 20 posters can be put up, per design.
-3. Poster must be removed by the following day as stated on the ROOT approval stamp.
+1. The SUTD Community is your audience. Ensure that your poster is appropriate and informs the audience well.
+2. Posters can be put up for a maximum of 30 days. Any extension has to receive ROOT's approval again.
+3. A maximum of 20 posters can be put up, per design.
+4. Poster must be removed by the following day as stated on the ROOT approval stamp.
 
 **FAILURE TO DO SO MAY RESULT IN YOUR STUDENT ORGANISATION BEING BLACKLISTED AND FUTURE POSTER REQUESTS BEING REJECTED**
+
 ## Credits
 - 9Breaker for edits
 - OpenSUTD for pioneering
 - SOAR for spearheading
+- Any improvements/edits are welcome - just raise the issue.
